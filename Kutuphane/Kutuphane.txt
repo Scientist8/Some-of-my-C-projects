@@ -1,0 +1,6 @@
+This is for the final exam of my programming class at Yildiz Technical University.
+
+Which I received 100% score :P
+
+This C++ project is a library which the user enters the parameters for the books and the program opens a file,
+writes them down and lists them.

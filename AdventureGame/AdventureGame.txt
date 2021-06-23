@@ -1,0 +1,5 @@
+This is a simple text-based adventure game where you pick your own companion and go on a short journey.
+
+This is one of my very first gaming projects done back in 2018.
+
+I also added the Shooting part separately, because personally I thought it was fun.
